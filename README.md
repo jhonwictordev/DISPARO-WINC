@@ -1,5 +1,7 @@
 # DISPARO WINC
 
+[![CI](https://github.com/jhonwictordev/DISPARO-WINC/actions/workflows/ci.yml/badge.svg)](https://github.com/jhonwictordev/DISPARO-WINC/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-22c55e.svg)](LICENSE) [![Demo](https://img.shields.io/badge/demo-synthetic%20data-0ea5e9.svg)](https://jhonwictordev.github.io/DISPARO-WINC/) [![Delivery](https://img.shields.io/badge/delivery-simulated-f59e0b.svg)](#public-demo)
+
 > See the [portfolio overview](docs/portfolio-overview.md) for architecture, queue safety and simulation boundaries.
 
 > [!IMPORTANT]
