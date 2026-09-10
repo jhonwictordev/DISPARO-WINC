@@ -1,5 +1,7 @@
 # DISPARO WINC
 
+> See the [portfolio overview](docs/portfolio-overview.md) for architecture, queue safety and simulation boundaries.
+
 > [!IMPORTANT]
 > **SIMULATION ONLY:** this repository does not send real WhatsApp messages. The QR connection, provider responses and delivery results are simulated. Configuring adapter credentials only marks an adapter as ready; a reviewed provider implementation is still required before any real delivery.
 
